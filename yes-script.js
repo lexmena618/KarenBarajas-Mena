@@ -1,5 +1,5 @@
 /* ── Same YouTube song continues on the Yes page ── */
-const YT_VIDEO_ID = 'v5Wl9_14GTY'
+const YT_VIDEO_ID = 'TDMfH1rx7rk'
 let ytFrame      = null
 let musicPlaying = false
 
