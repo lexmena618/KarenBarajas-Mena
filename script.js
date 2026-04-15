@@ -5,13 +5,13 @@ const gifStages = [
     "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",            // 2 pleading (No #2)
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",            // 3 sad (No #3)
     "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",      // 4 sadder (No #4)
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",            // 5 devastated (No #5 → runaway)
+    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated (No #5 → runaway)
 ]
 
 /* ── Phrases that go inside the No button ── */
 const noPhrases = [
     "No",
-    "Are you sure baby?",
+    "Are you sure mai Lob?",
     "Please go out with me baby",
     "You're going to make me cry baby",
     "Please beautiful",
